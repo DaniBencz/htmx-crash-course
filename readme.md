@@ -19,4 +19,10 @@ Install dependencies
 npm install
 ```
 
+Start app
+
+```bash
+npm run dev
+```
+
 Visit the html page (eg. http://localhost:3000/search.html)
